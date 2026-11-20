@@ -48,6 +48,7 @@ las cifras del menor al mayor y vuelvo a ordenarlo de esa manera. Repito eso has
             nuevoNumero = a - b;
         } while (nuevoNumero!=original);
         System.out.println(nuevoNumero);
+        System.out.println("Ola");
     }
 
 }
